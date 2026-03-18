@@ -15,3 +15,12 @@
   * 《沉寂的天空》
   * 《故乡人》
   * 《远方的孩子》
+
+
+## MEMO
+
+* 2026.03.18
+
+试了下 [MiniMax Music](https://www.minimaxi.com/audio/music) 的 AI 生成音乐，感觉还不错。很喜欢**郑智化**的歌，试着做了一张专辑《沉寂的天空》。
+
+创作方式：DeepSeek 生成提示词，然后喂给 MiniMax Audio。
